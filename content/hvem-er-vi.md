@@ -5,6 +5,7 @@ background_style: style5
 menu:
   main:
     identifier: omoss
+    name: Om oss
 layout: page
 ---
 
