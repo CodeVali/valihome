@@ -1,7 +1,7 @@
 ---
 title: Generic Page
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
-background_style: style5
+background_style: style2
 menu:
   main:
     name: Generic
