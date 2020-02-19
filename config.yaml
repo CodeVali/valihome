@@ -25,6 +25,12 @@ menu:
     - identifier: test
       name: 'test '
       url: www.vg.no
+    - identifier: wqe
+      name: wqeqweqwe
+      url: qwe
+    - identifier: ytr
+      name: ewywywy
+      url: qwe
 disableKinds:
   - RSS
   - taxonomy
