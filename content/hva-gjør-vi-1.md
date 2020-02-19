@@ -1,9 +1,7 @@
 ---
 title: Hva gjør vi
 subtitle: >-
-  * [eHelse](https://www.vali.no/ehelse)
-
-
+  [](https://www.vali.no/ehelse)
 
 
   I 1960 var det ca.**3 milliarder**mennesker på jorden, i dag er det ca.**7,7
