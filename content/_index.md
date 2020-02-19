@@ -30,10 +30,13 @@ sections:
         style: style3
         title: Kunnskap
     section_id: one
-    subtitle: 1. Vali er et ........ som e r ...... ca helt lorem ipsum dolor ...
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+    subtitle: >-
+      Vali AS er et anerkjent selskap med høy kompetanse og positiv energi.
+      Selskapet er en betrodd IT-partner for store offentlige etater og
+      virksomheter, og vi utvikler oss gjennom inspirerende samarbeid med våre
+      kunder og partnere. Utfordrende prosjekter der integrasjon og e-Helse er i
+      fokus, er noe av det vi gjør best.
+    title: 'Great Place to Work -ti på topp- hvert år!  '
     type: icons
   - background_style: style2
     component: spotlights.html
