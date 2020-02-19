@@ -5,16 +5,16 @@ banner:
     - is_primary: true
       is_scrolly: false
       label: Activate
-      url: /generic
+      url: karriere.vali.no
   bottom_link:
     has_arrow: true
     is_scrolly: true
-    label: List til å bli en av oss ?
+    label: ' Hvem er vi ?'
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  subtitle: >-
+    Vali er et konsulentselskap hvor faglig dyktighet, involvering og intern
+    kultur legges til rette for gode mellommenneskelige relasjoner som skaper
+    tilhørighet og fellesskap.
   title: Vi er Vali !
 sections:
   - background_style: style1
