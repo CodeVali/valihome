@@ -22,15 +22,9 @@ params:
         accent6: '#ed4933'
 menu:
   main:
-    - identifier: test
-      name: 'test '
-      url: www.vg.no
-    - identifier: wqe
-      name: wqeqweqwe
-      url: qwe
-    - identifier: ytr
-      name: ewywywy
-      url: qwe
+    - identifier: karriere
+      name: Karriere
+      url: 'https://karriere.vali.no'
 disableKinds:
   - RSS
   - taxonomy
