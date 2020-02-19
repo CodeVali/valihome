@@ -4,8 +4,8 @@ subtitle: Møt Vali familien
 background_style: style5
 menu:
   main:
-    identifier: omoss
-    name: Om oss
+    identifier: about
+    name: Hvem er vi
 layout: page
 ---
 
