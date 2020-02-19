@@ -5,7 +5,7 @@ menu:
   main:
     name: Ansatte
     parent: omoss
-    weight: 3
+    weight: ''
 layout: elements
 ---
 
