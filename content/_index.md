@@ -22,20 +22,15 @@ sections:
     feature_icons:
       - icon: fa-diamond
         style: style1
-        title: Lorem
+        title: Kvalitet
       - icon: fa-heart-o
         style: style2
-        title: Ipsum
+        title: Miljø
       - icon: fa-code
         style: style3
-        title: Dolor
+        title: Kunnskap
     section_id: one
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+    subtitle: 1. Vali er et ........ som e r ...... ca helt lorem ipsum dolor ...
     title: |-
       Arcu aliquet vel lobortis ata nisl
       eget augue amet aliquet nisl cep donec
