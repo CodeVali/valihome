@@ -76,6 +76,12 @@ sections:
     text: Vi er stadig på jakt etter nye talenter og ønsker å høre fra deg !
     title: 'Vi trenger Flinke folk '
     type: cta
+  - background_style: style3
+    component: features.html
+    section_id: three
+    subtitle: Les om hvorfor våre ansatte trives så godt i Vali
+    title: Møt våre ansatte
+    type: features
 menu:
   main:
     name: Home
