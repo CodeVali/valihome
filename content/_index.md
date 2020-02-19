@@ -65,63 +65,20 @@ sections:
         title: Rådgivning
     title: Spotlights Section
     type: spotlights
-  - background_style: style3
-    component: features.html
-    features:
-      - icon: fa-paper-plane-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Arcu accumsan
-      - icon: fa-laptop
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Ac Augue Eget
-      - icon: fa-code
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mus Scelerisque
-      - icon: fa-headphones
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mauris Imperdiet
-      - icon: fa-heart-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Aenean Primis
-      - icon: fa-flag-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Tortor Ut
-    section_id: three
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    title: Accumsan mus tortor nunc aliquet
-    type: features
   - actions:
       - is_primary: true
         is_scrolly: false
         label: Activate
-        url: /generic
+        url: '/#'
       - is_primary: false
         is_scrolly: false
-        label: Learn More
-        url: /generic
+        label: Lær mer
+        url: 'https://karriere.vali.no'
     background_style: style4
     component: cta.html
     section_id: cta
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
-    title: Arcue ut vel commodo
+    text: Vi er stadig på jakt etter nye talenter og ønsker å høre fra deg !
+    title: 'Vi trenger Flinke folk '
     type: cta
 menu:
   main:
