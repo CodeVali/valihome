@@ -3,7 +3,7 @@ title: Ansatte
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 menu:
   main:
-    name: Ansatte
+    name: ''
     parent: ''
     weight: ''
 layout: elements
