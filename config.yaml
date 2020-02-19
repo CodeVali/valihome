@@ -20,6 +20,11 @@ params:
         accent4: '#76ddff'
         accent5: '#505393'
         accent6: '#ed4933'
+menu:
+  main:
+    - identifier: test
+      name: 'test '
+      url: www.vg.no
 disableKinds:
   - RSS
   - taxonomy
