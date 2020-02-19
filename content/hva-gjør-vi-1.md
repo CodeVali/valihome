@@ -31,26 +31,6 @@ subtitle: >-
 
 
   ## Dette er det Vali brenner for!
-
-
-  Les noen av våre suksesshistorier om hvordan Vali hittil har bidratt til denne
-  digitaliseringen i helsesektoren i Norge:
-
-
-  * [I front med DIPS
-  ARENA](https://www.vali.no/vaare-suksesshistorier/i-front-med-dips-arena)
-
-  * [Les din pasientjournal på
-  Helsenorge.no](https://www.vali.no/vaare-suksesshistorier/les-din-pasientjournal-paa-helsenorge-no)
-
-  * [Bedre samhandlig i Helse
-  SørØst](https://www.vali.no/vaare-suksesshistorier/integrasjonsfabrikken)
-
-  * [Et av verdens ledende og mest moderne
-  sykehus](https://www.vali.no/vaare-suksesshistorier/sykehuset-oestfold)
-
-  * [Høye krav til standardisering og konvertering i
-  OUS](https://www.vali.no/vaare-suksesshistorier/oslo-universitetssykehus)
 background_style: style5
 menu:
   main:
