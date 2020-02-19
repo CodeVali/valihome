@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hjem
 banner:
   actions:
     - is_primary: true
