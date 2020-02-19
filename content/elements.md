@@ -1,9 +1,11 @@
 ---
-title: Elements
+title: Ansatte
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 menu:
   main:
-    name: Elements
+    name: Ansatte
+    parent: omoss
     weight: 3
 layout: elements
 ---
+
