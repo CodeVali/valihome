@@ -1,7 +1,7 @@
 ---
 title: Blog
 subtitle: Her er vår blog
-background_style: style5
+background_style: style2
 menu:
   main:
     identifier: blog
