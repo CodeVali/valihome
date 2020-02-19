@@ -66,10 +66,6 @@ sections:
     title: Spotlights Section
     type: spotlights
   - actions:
-      - is_primary: true
-        is_scrolly: false
-        label: Activate
-        url: '/#'
       - is_primary: false
         is_scrolly: false
         label: Lær mer
