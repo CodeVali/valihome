@@ -4,8 +4,8 @@ banner:
   actions:
     - is_primary: true
       is_scrolly: false
-      label: Activate
-      url: karriere.vali.no
+      label: Bli en av oss !
+      url: 'https://karriere.vali.no'
   bottom_link:
     has_arrow: true
     is_scrolly: true
@@ -51,18 +51,18 @@ sections:
         title: Arkitekturtjenester
       - home_img_path: images/pic02.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
+          Vali tilbyr erfarne og dyktige prosjektledere som hjelper deg å lykkes
+          med gjennomføring av komplekse prosjekter. Våre konsulenter er
+          sertifiserte innenfor PRINCE2®, PMI og IPMA. De vil tilpasse
+          metodikken for hvert enkelt prosjekt etter behov og ved å ta hensyn
+          til kundens interne metodikk.
+        title: Prosjektledelse
       - home_img_path: images/pic03.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Augue eleifend aliquet
-          sed condimentum
+          Vali hjelper våre kunder med å ta de riktige strategiske beslutningene
+          for å skape økt vekst og bedre effektivitet. «Doing the right things
+          right»
+        title: Rådgivning
     title: Spotlights Section
     type: spotlights
   - background_style: style3
